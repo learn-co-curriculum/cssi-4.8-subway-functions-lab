@@ -1,9 +1,4 @@
----
-tags: methods, return values, kids, python
-language: python
-level: 1
-type: lab
----
+
 
 # A Subway Story
 
