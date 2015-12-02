@@ -7,3 +7,5 @@
 Fork and clone this lab and follow the instructions in `subway_functions.py` to write the appropriate methods.
 
 The first method is written out for you as an example. Don't forget to run your program after you are done.
+
+<a href='https://learn.co/lessons/cssi-4.8-subway-functions-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
