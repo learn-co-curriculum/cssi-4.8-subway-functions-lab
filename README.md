@@ -8,4 +8,4 @@ Fork and clone this lab and follow the instructions in `subway_functions.py` to 
 
 The first method is written out for you as an example. Don't forget to run your program after you are done.
 
-<a href='https://learn.co/lessons/cssi-4.8-subway-functions-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4.8-subway-functions-lab' title='A Subway Story'>A Subway Story</a> on Learn.co and start learning to code for free.</p>
